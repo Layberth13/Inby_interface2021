@@ -1,0 +1,40 @@
+body{
+    background-color: cornsilk;
+
+}
+
+.h1{
+    text-align: center;
+}
+
+.section1{
+   text-align: left;
+   margin-left: 25px;
+   margin-right: 25px;
+   display: inline-block;
+   border: black 3px solid;
+   padding-top: 25px;
+   padding-left: 15px;
+   padding-right: 25;
+   padding-bottom: 25px;
+
+}
+
+.section2{
+border: black 2px solid;
+margin: auto;
+display: inline-block;
+
+}
+.encebollado{
+    width: 70px;
+    height: 70px;
+  
+
+}
+
+.Cazuela{
+    width: 70px;
+    height: 70px;
+    
+}
