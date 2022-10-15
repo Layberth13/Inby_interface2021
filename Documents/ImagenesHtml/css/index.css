@@ -33,8 +33,15 @@ display: inline-block;
 
 }
 
+.titulo1{
+    text-align: center;
+}
+
 .Cazuela{
     width: 70px;
     height: 70px;
     
+}
+.titulo2{
+    text-align: center;
 }
